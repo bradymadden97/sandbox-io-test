@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
-      <h2>This is a test by Brady</h2>
+      <h2>This is a test by Brady from Github to Sandboxio</h2>
     </div>
   );
 }
